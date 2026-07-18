@@ -1,0 +1,10 @@
+step-1:
+	initilization of backend
+	npm init -y
+step-2:
+	npm i nodemon express dotenv 		mongoose
+step-3:
+	create files for connection
+	config->db.js
+	SERVER.JS main file
+	.env
